@@ -4,3 +4,6 @@ Unit test is more for logic in 1 part of code. The message sending depends
 on more outside factors in the application/feature level.
 2. yes I would use unit testing for "max message length". It simply checks
 the length of a message which should not depend on many application/feature level.
+
+https://sarenap.github.io/Lab5_Starter/expose.html
+https://sarenap.github.io/Lab5_Starter/explore.html
